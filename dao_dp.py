@@ -280,7 +280,7 @@ def serch_distributor():
     print('[1] Nombre (puede escribir solo una parte del nombre)')
     print('[2] Fecha de registro')
     print('[3] Rango de fechas')
-    print('[4] Mes de registroo')
+    print('[4] Mes de registro')
     print('[0] Salir')
 
     command = input()
